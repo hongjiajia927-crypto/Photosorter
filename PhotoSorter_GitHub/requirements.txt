@@ -1,0 +1,3 @@
+Pillow
+deepface
+opencv-python
